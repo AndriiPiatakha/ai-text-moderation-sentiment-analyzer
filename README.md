@@ -1,4 +1,4 @@
-# AI Text Moderation, Toxicity, Aspects & Sentiment Analyzer
+# AI Text Moderation, Toxicity, Aspects & Sentiment Analyzer FREE API
 
 ## Overview
 The **AI Text Moderation, Toxicity, Aspects & Sentiment Analyzer API** is a next‑generation multilingual engine designed to understand, evaluate, and protect your content in real time. Built on our **uniquely trained AI model**, powered by **billions of raw text samples and petabytes of linguistic data**, this API delivers unmatched precision across sentiment, emotion, toxicity, aspect-based analysis, and moderation tasks.
